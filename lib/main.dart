@@ -1,0 +1,7 @@
+// Widgets Export
+export 'src/widgets/box_text.dart';
+export 'src/widgets/box_button.dart';
+export 'src/widgets/input_field.dart';
+
+// Colors Export
+export 'src/shared/colors.dart';
