@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:ui_kit/main.dart';
+import 'package:ui_kit/ui_kit.dart';
 
 class ExampleView extends StatelessWidget {
   const ExampleView({Key? key}) : super(key: key);
