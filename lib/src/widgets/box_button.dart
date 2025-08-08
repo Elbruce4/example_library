@@ -40,7 +40,7 @@ class BoxButton extends StatelessWidget {
         alignment: Alignment.center,
         decoration: !outline
             ? BoxDecoration(
-                color: !disabled ? kcPrimaryColor : kcMediumGreyColor,
+                color: !disabled ? kRedColor : kcMediumGreyColor,
                 borderRadius: BorderRadius.circular(8),
               )
             : BoxDecoration(
